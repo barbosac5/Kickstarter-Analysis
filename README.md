@@ -1,11 +1,11 @@
 # Stock-Analysis
 ## Overview
+
 ### Purpose: 
   The purpose of this project is to refactor an Excel VBA starter piece of code. This starter code assists Steve in knowing how fast VBA 
 can compile results based on the year we plug in to find the respective stocks Total Daily Volume as well as its Return rate. 
 The data we looked at consists of stock information for 12 different companies and with VBA, we compared the two years to see how well, 
 or poorly, they did.
-
 
 
 ## Results
@@ -28,7 +28,7 @@ $607,473,500 and $502,757,100 respectively.  When comparing the code between the
 refactored code again ran faster than the original. The refactored code for 2018 ran in 0.68 seconds. Unlike the refactored code, 
 the original code ran in 0.79 seconds. This shows that the refactored code for the challenge was faster than the original code for the Module.
 
-![All Stocks Analysis for 2018](./Resources/All_Stocks_Analysis_2018.pdf)
+![All Stocks Analysis for 2018](./Resources/All_Stocks_Analysis_2018 .pdf)
 ![Run code for 2018](./Resources/Code_Ran_2018.pdf)
 
 ## Summary 
@@ -57,5 +57,4 @@ original code by 0.2 to 0.3 seconds. This could be because of the simplicity of 
 it run faster as a result.
 
 #### Original Code Run Times 
-![First Run code for 2017](./Resources/Code_Ran_2017_first.pdf)
-![First Run code for 2018](./Resources/Code_Ran_2018_first.pdf)
+
