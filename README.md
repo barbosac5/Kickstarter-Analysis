@@ -29,7 +29,7 @@ $607,473,500 and $502,757,100 respectively.  When comparing the code between the
 refactored code again ran faster than the original. The refactored code for 2018 ran in 0.68 seconds. Unlike the refactored code, 
 the original code ran in 0.79 seconds. This shows that the refactored code for the challenge was faster than the original code for the Module.
 
-![All Stocks Analysis for 2018](./Resources/All_ Stocks_Analysis_2018.pdf)
+![All Stocks Analysis for 2018](./Resources/All_Stocks_Analysis_2018.pdf)
 
 ![Run code for 2018](./Resources/Code_Ran_2018.pdf)
 
