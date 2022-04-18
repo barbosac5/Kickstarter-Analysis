@@ -6,7 +6,7 @@ can compile results based on the year we plug in to find the respective stocks T
 The data we looked at consists of stock information for 12 different companies and with VBA, we compared the two years to see how well, 
 or poorly, they did.
 
-*insert picutres here
+
 
 ## Results
 ### Analysis of 2017
@@ -17,7 +17,8 @@ When running the code, I also noticed that the refactored time was faster than t
 ran in a time of about 0.68 seconds and the original code ran in a time of 0.71 seconds. Comparing the refactored and original, the refactored 
 code ran faster. 
 
-*insert picutres here
+![All Stocks Analysis for 2017](./Resources/All_Stocks_Analysis_2017.pdf)
+![Run code for 2017](./Resources/Code_Ran_2017.pdf)
 
 ### Analysis of 2018
   According to the table, in 2018, ten of the 12 companies all had negative return rates. What I also discovered was that the company 
@@ -27,7 +28,8 @@ $607,473,500 and $502,757,100 respectively.  When comparing the code between the
 refactored code again ran faster than the original. The refactored code for 2018 ran in 0.68 seconds. Unlike the refactored code, 
 the original code ran in 0.79 seconds. This shows that the refactored code for the challenge was faster than the original code for the Module.
 
-*insert pictures here
+![All Stocks Analysis for 2018](./Resources/All_Stocks_Analysis_2018.pdf)
+![Run code for 2018](./Resources/Code_Ran_2018.pdf)
 
 ## Summary 
 
@@ -47,11 +49,13 @@ When refactoring code, it is important to make sure all lines of code are proper
 that can be time consuming to run through and check.
 
 ### Origonal code vs. Refacotred Code
-When a developer refactors code, it is done in order to restructure the code in a much simpler way. This can help if the original code is 
+  When a developer refactors code, it is done in order to restructure the code in a much simpler way. This can help if the original code is 
 too messy from writing the original script. As stated before, when the code is messy and disorganized, it can be hard to read what exactly 
 is going on. Despite changing the look of the code, the functionality stays the same. Refactoring even makes the code run faster. 
 For example, the times for both 2017 and 2018 were the same but I believe that could be because of my hardware. The code ran faster than the 
 original code by 0.2 to 0.3 seconds. This could be because of the simplicity of the refactored code causes less stress on my computer which makes 
 it run faster as a result.
 
-*insert oriognal code times here
+#### Original Code Run Times 
+![First Run code for 2017](./Resources/Code_Ran_2017_first.pdf)
+![First Run code for 2018](./Resources/Code_Ran_2018_first.pdf)
