@@ -55,7 +55,3 @@ is going on. Despite changing the look of the code, the functionality stays the 
 For example, the times for both 2017 and 2018 were the same but I believe that could be because of my hardware. The code ran faster than the 
 original code by 0.2 to 0.3 seconds. This could be because of the simplicity of the refactored code causes less stress on my computer which makes 
 it run faster as a result.
-
-#### Original Code Run Times 
-![Original Run code for 2017](./Resources/Code_Ran_2017_first.pdf)
-![Original Run code for 2018](./Resources/Code_Ran_2018_first.pdf)
