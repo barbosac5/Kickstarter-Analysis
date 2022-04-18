@@ -18,6 +18,7 @@ ran in a time of about 0.68 seconds and the original code ran in a time of 0.71 
 code ran faster. 
 
 ![All Stocks Analysis for 2017](./Resources/All_Stocks_Analysis_2017.pdf)
+
 ![Run code for 2017](./Resources/Code_Ran_2017.pdf)
 
 ### Analysis of 2018
@@ -29,6 +30,7 @@ refactored code again ran faster than the original. The refactored code for 2018
 the original code ran in 0.79 seconds. This shows that the refactored code for the challenge was faster than the original code for the Module.
 
 ![All Stocks Analysis for 2018](./Resources/All_Stocks_ Analysis_2018.pdf)
+
 ![Run code for 2018](./Resources/Code_Ran_2018.pdf)
 
 ## Summary 
