@@ -2,13 +2,14 @@
 ## Overview
 
 ### Purpose: 
-  The purpose of this project is to refactor an Excel VBA starter piece of code. This starter code assists Steve in knowing how fast VBA 
-can compile results based on the year we plug in to find the respective stocks Total Daily Volume as well as its Return rate. 
+  The purpose of this project is to refactor a VBA starter piece of code. This starter code assists Steve in knowing how fast VBA 
+can compile results based on the year we plug in to find the respective results for Total Daily Volume as well as its Return rate. 
 The data we looked at consists of stock information for 12 different companies and with VBA, we compared the two years to see how well, 
 or poorly, they did.
 
 
 ## Results
+
 ### Analysis of 2017
   The year of 2017 seemed to be a good year for almost all companies. With positive returns coming for 11 of the 12 companies. Even the 
 company Steve’s parents wanted to invest in did well with a total daily volume of $35,796,200 with a 199.4% positive return rate. 
