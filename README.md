@@ -10,9 +10,9 @@
 ### Analysis of 2017
   The year of 2017 seemed to be a good year for almost all companies. With positive returns coming for 11 of the 12 companies. Even the company Steve’s parents wanted to invest in did well with a total daily volume of $35,796,200 with a 199.4% positive return rate. The only company with a negative return was TERP with a total daily volume of $139,402,800 and a negative return rate of  -7.2%. When running the code, I also noticed that the refactored time was faster than the original. The refactored time for the analysis ran in a time of about 0.68 seconds and the original code ran in a time of 0.71 seconds. Comparing the refactored and original, the refactored code ran faster. 
 
-![All Stocks Analysis for 2017](./Resources/All_Stocks_Analysis_2017.pdf)
+![All Stocks Analysis for 2017](./Resources/All_Stocks_Analysis_2017.png)
 
-![Run code for 2017](./Resources/Code_Ran_2017.pdf)
+![Run code for 2017](./Resources/Code_Ran_2017.png)
 
 
 ### Analysis of 2018
@@ -30,11 +30,11 @@
 ### Disadvantages of Refacotring Code 
   One issue when working with refactored code can be the sprout of errors that can occur if even one minute detail is missed. For example, when working with this refactored code, I had to make sure that the organized code ran correctly and was on the lookout for errors. I had this issue a couple of times when working on the refactored code. It was mainly because the refactored code can look differnt than what you have initially which means that it can be easy to get mixed up. But despite this the organization can be beneifical in the long run When refactoring code, it is important to make sure all lines of code are properly organized and written or else there can be an error that can be time consuming to run through and check.
 
-![Code Used for Challenge](./Resources/Code_1.pdf)
+![Code Used for Challenge](./Resources/Code_1.png)
 
-![Code Used for Challenge](./Resources/Code_2.pdf)
+![Code Used for Challenge](./Resources/Code_2.png)
 
-![Code Used for Challenge](./Resources/Code_3.pdf)
+![Code Used for Challenge](./Resources/Code_3.png)
 
 ### Origonal code vs. Refacotred Code
   When a developer refactors code, it is done in order to restructure the code in a much simpler way. This can help if the original code is too messy from writing the original script. As stated before, when the code is messy and disorganized, it can be hard to read what exactly is going on. Despite changing the look of the code, the functionality stays the same. Refactoring even makes the code run faster. For example, the times for both 2017 and 2018 were the same but I believe that could be because of my hardware. The code ran faster than the original code by 0.2 to 0.3 seconds. This could be because of the simplicity of the refactored code causes less stress on my computer which makes it run faster as a result.
