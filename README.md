@@ -18,9 +18,9 @@
 ### Analysis of 2018
   According to the table, in 2018, 10 of the 12 companies all had negative return rates. What I also discovered was that the company Steve’s parents wanted to invest in actually did the worst out of all other companies. The total daily volume was $107,873,900 with a return rate of -62.6%. The two companies that did well (ENPH and RUN), had a positive return rate of 81.9% and 84% and a total daily volume of $607,473,500 and $502,757,100 respectively.  When comparing the code between the original analysis and the challenge, I noticed that the refactored code again ran faster than the original. The refactored code for 2018 ran in 0.68 seconds. Unlike the refactored code, the original code ran in 0.79 seconds. This shows that the refactored code for the challenge was faster than the original code for the Module.
 
-![All Stocks Analysis for 2018](./Resources/All_Stocks_Analysis_2018.pdf)
+![All Stocks Analysis for 2018](./Resources/All_Stocks_Analysis_2018.png)
 
-![Run code for 2018](./Resources/Code_Ran_2018.pdf)
+![Run code for 2018](./Resources/Code_Ran_2018.png)
 
 ## Summary 
 
